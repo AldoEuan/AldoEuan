@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<BR>-🔭 I’m currently study on ITESCAM,CALKINI,CAMPECHE,MEXICO
--🌱 I’m currently learning JAVA SCRIPT
--👯 I’m looking to collaborate on development software
--📫 How to reach me:  FACEBOOK: ALDO EUAN
+<br>-🔭 I’m currently study on ITESCAM,CALKINI,CAMPECHE,MEXICO
+<br>-🌱 I’m currently learning JAVA SCRIPT
+<br>-👯 I’m looking to collaborate on development software
+<br>📫 How to reach me:  FACEBOOK: ALDO EUAN
