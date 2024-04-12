@@ -3,5 +3,5 @@
 
 
 <br> 
-## Ingeniero en Sistemas Computacionales
+Ingeniero en Sistemas Computacionales
  
