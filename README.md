@@ -6,57 +6,61 @@
 
 ---
 
-## 🧑‍💻 Perfil Profesional
+## 🧑‍💻 Sobre mí
 
-Desarrollador web con más de 3 años de experiencia en tecnologías .NET, Angular y SQL Server. Apasionado por crear soluciones eficientes, seguras y escalables para entornos empresariales. Experto en el desarrollo de APIs, diseño de bases de datos y creación de interfaces modernas y responsivas.
+Ingeniero en Sistemas Computacionales con experiencia en desarrollo web y móvil. He trabajado con tecnologías como Angular, TypeScript, C#, .NET Core y SQL Server. Participo activamente en el desarrollo de interfaces modernas y APIs robustas. Me destaco por mi adaptabilidad, trabajo en equipo y responsabilidad.
 
 ---
+
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes**: C#, JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: .NET Core, Angular, Entity Framework
-- **Base de Datos**: SQL Server, LINQ, Stored Procedures
-- **Herramientas**: Git, Visual Studio, Azure DevOps
-- **Otros**: NG-ZORRO, JWT, REST APIs
+- **Frontend**: Angular, Angular Material, NG-ZORRO, Bootstrap, PrimeNG  
+- **Backend**: C#, .NET Core, Entity Framework  
+- **Bases de datos**: SQL Server  
+- **Herramientas**: ExcelJS, Git, Visual Studio  
+- **Idiomas**: Inglés (B1 - ITESCAM)
 
 ---
 
-## 🧾 Experiencia Profesional
+## 💼 Experiencia Profesional
 
-### Desarrollador Web  
-**Empresa ABC** - Ciudad de México  
-_Enero 2022 – Actualidad_
+### 🔍 Analista Especializado  
+**Secretaría de Administración y Finanzas (SAFIN)**  
+_Marzo 2025 · San Francisco de Campeche, México_
 
-- Desarrollo de módulos con ASP.NET Core y Angular para gestión de proveedores.
-- Diseño y optimización de consultas SQL complejas.
-- Implementación de autenticación y autorización con JWT.
-- Mejora del rendimiento en vistas Angular con técnicas de Lazy Loading y virtual scroll.
+### 🏢 Programador Trainee  
+**Constructora Subacuática DIAVAZ**  
+_Mayo 2024 – Diciembre 2024 · Ciudad del Carmen, Campeche_
 
-### Programador Jr.  
-**Tecnologías XYZ** - Ciudad de México  
-_Julio 2020 – Diciembre 2021_
+- Desarrollé un módulo de cotizaciones personalizado con la tabla EBAN.
+- Atendí tickets de soporte técnico de distintas áreas.
+- Creé APIs en .NET Core para gestión de inventario, modelando datos con Entity Framework.
+- Desarrollé interfaces modulares en Angular usando bibliotecas como Angular Material, Bootstrap, NG-ZORRO y PrimeNG.
+- Integré funcionalidades de importación/exportación de datos en Excel con ExcelJS.
 
-- Soporte y mantenimiento a sistemas existentes desarrollados en .NET Framework.
-- Participación en migración de aplicaciones legacy a .NET Core.
-- Creación de reportes usando Crystal Reports y consultas SQL.
+### 🧑‍💼 Residencia Profesional  
+**Plenumsoft**  
+_Agosto 2023 – Enero 2024 · Mérida, Yucatán_
 
+- Participé en el desarrollo desde cero de aplicaciones web y móviles.
+- Trabajé en proyectos empresariales con equipos multidisciplinarios.
 ---
+
 
 ## 🎓 Educación
 
-**Ingeniería en Sistemas Computacionales**  
-Universidad Nacional de México  
-_2016 – 2020_
+### 🎓 Ingeniería en Sistemas Computacionales  
+**Instituto Tecnológico Superior de Calkiní (ITESCAM)**  
+_2019 – 2024_
+
+### 🎓 Profesional Técnico Bachiller en Informática  
+**CONALEP Plantel Dzitbalché**  
+_2016 – 2019_
 
 ---
 
-## 📂 Proyectos Destacados
-
-- **Sistema de Cotizaciones**: Plataforma para gestionar solicitudes de cotización y proveedores (ASP.NET Core + Angular + SQL Server).
-- **Dashboard de KPIs**: Aplicación de visualización de indicadores con gráficos en tiempo real (Angular + Chart.js).
-
----
+ 
 
 ## 🗣️ Idiomas
 
