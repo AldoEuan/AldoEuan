@@ -1,6 +1,5 @@
 # 👨‍💻 Aldo Javier Euan Chablé  
-### Desarrollador Full-Stack & Ingeniero en Sistemas Computacionales
----
+
 **Desarrollador Web Full Stack**  
 📍 Calkiní, Campeche  
 📧 Euan21132@email.com | 📱 +52 996 963 81 43  | [GitHub](https://github.com/AldoEuan) | [LinkedIn](www.linkedin.com/in/aldo-javier-euan-chable-458605234)
