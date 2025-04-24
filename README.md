@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 📝 Sobre mí
 
 Ingeniero en Sistemas Computacionales con experiencia en desarrollo web y móvil. He trabajado con tecnologías como Angular, TypeScript, C#, .NET Core y SQL Server. Participo activamente en el desarrollo de interfaces modernas y APIs robustas. Me destaco por mi adaptabilidad, trabajo en equipo y responsabilidad.
 
