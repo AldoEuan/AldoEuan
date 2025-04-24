@@ -1,8 +1,8 @@
 # Ingeniero en Sistemas Computacionales Aldo Javier Euan Chable 👋 ✌️
 
 **Desarrollador Web Full Stack**  
-📍 Ciudad de México, México  
-📧 juan.perez@email.com | 📱 +52 55 1234 5678 | [GitHub](https://github.com/juanperez) | [LinkedIn](https://linkedin.com/in/juanperez)
+📍 Calkiní, Campeche  
+📧 Euan21132@email.com | 📱 +52 996 963 81 43  | [GitHub](https://github.com/AldoEuan) | [LinkedIn](www.linkedin.com/in/aldo-javier-euan-chable-458605234)
 
 ---
 
