@@ -25,11 +25,11 @@ Ingeniero en Sistemas Computacionales con experiencia en desarrollo web y móvil
 
 ## 💼 Experiencia Profesional
 
-### 🔍 Analista Especializado  
+### 💼 Analista Especializado  
 **Secretaría de Administración y Finanzas (SAFIN)**  
 _Marzo 2025 · San Francisco de Campeche, México_
 
-### 🏢 Programador    
+### 💼 Programador    
 **Constructora Subacuática DIAVAZ**  
 _Mayo 2024 – Diciembre 2024 · Ciudad del Carmen, Campeche_
 
@@ -39,7 +39,7 @@ _Mayo 2024 – Diciembre 2024 · Ciudad del Carmen, Campeche_
 - Desarrollé interfaces modulares en Angular usando bibliotecas como Angular Material, Bootstrap, NG-ZORRO y PrimeNG.
 - Integré funcionalidades de importación/exportación de datos en Excel con ExcelJS.
 
-### 🧑‍💼Programador Trainee  
+### 💼 Programador Trainee  
 **Plenumsoft**  
 _Agosto 2023 – Enero 2024 · Mérida, Yucatán_
 
